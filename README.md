@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Premkumar Varma</h1>
 <h3 align="center">A passionate Data scientist, AI enthusiast</h3>
-<img align = "right" alt = "coding" width = "400" src ="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align = "right" alt = "coding" width = "400" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgxOTg0ODQsIm5iZiI6MTcxODE5ODE4NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjEyVDEzMTYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4MTYwN2MwMjIxMWM2ODNmZTMzMjA4ZTdhNGQ1ODIzNGIwYzA0ODY3YzZjNzI3YzRlNWE2ZjFmYThjZmVjMDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.pNV2ySNFLeXFG6nA5q3FLgyeqqvAjvNdh0HqdukdFyU"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince0310&label=Profile%20views&color=0e75b6&style=flat" alt="prince0310" /> </p>
 
 
