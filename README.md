@@ -32,7 +32,7 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 10px;">
 
-I'm a passionate data scientist and AI enthusiast with expertise in computer vision and machine learning. My journey in the world of data is driven by a love for math, programming, and continuously expanding my knowledge horizons.
+I'm a passionate Computer Vision Engineer and AI Enthusiast with expertise in computer vision and machine learning. My journey in the world of data is driven by a love for math, programming, and continuously expanding my knowledge horizons.
 
 - 🔭 **Working on:** Medical Image Segmentation, Object Detection, NLP
 - 🧠 **Expertise:** Feature Engineering, Signal Processing, Computer Vision
@@ -90,7 +90,7 @@ I'm a passionate data scientist and AI enthusiast with expertise in computer vis
 <!-- Modern icons with glow effects -->
 <img src="https://skillicons.dev/icons?i=python,cpp,html,tensorflow,pytorch,flask,opencv,git,mysql,linux&theme=dark" alt="Skills" /><br><br>
 
-### Data Science & AI Ecosystem
+### Computer Vision and Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -112,28 +112,7 @@ I'm a passionate data scientist and AI enthusiast with expertise in computer vis
 <div style="background: linear-gradient(to right, #4B0082, #6A54F7, #4B0082); padding: 1px; border-radius: 10px; margin-bottom: 20px;">
 <div style="background: #0d1117; border-radius: 9px; padding: 15px;">
 
-## 📈 GitHub Stats
 
-<div align="center">
-  
-<!-- Uncomment to activate GitHub stats -->
-<!--
-<a href="https://github.com/PremVarma5142">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PremVarma5142&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=00000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremVarma5142&layout=compact&langs_count=7&theme=tokyonight&border_radius=8&hide_border=true&bg_color=00000000"/>
-</a>
-
-<p>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=PremVarma5142&theme=tokyonight&hide_border=true&background=00000000&currStreakNum=6A54F7&currStreakLabel=6A54F7" />
-</p>
--->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
-</div>
-</div>
 
 <!-- Connect section with pulse animation effect -->
 <div style="background: linear-gradient(to right, #F25278, #FF6F61, #F25278); padding: 1px; border-radius: 10px; margin-bottom: 20px;">
