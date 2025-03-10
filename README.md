@@ -3,11 +3,14 @@
 <!-- Header with animated text effect -->
 # Premkumar Varma 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=440&lines=Data+Scientist+%7C+AI+Enthusiast;Computer+Vision+Engineer;Machine+Learning+Specialist;Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=440&lines=Computer+Vision+Engineer" alt="Typing SVG" />
+<!-- Profile badges with animations -->
+<p>
+
+
 
 <!-- Profile badges with animations -->
 <p>
-  <img src="https://img.shields.io/badge/Data_Science-Expert-4B0082?style=for-the-badge&labelColor=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyMmMtNS41MjMgMC0xMC00LjQ3Ny0xMC0xMHM0LjQ3Ny0xMCAxMC0xMHMxMCA0LjQ3NyAxMCAxMC00LjQ3NyAxMC0xMCAxMHptMC0xOGMtNC40MTggMC04IDMuNTgyLTggOHMzLjU4MiA4IDggOHM4LTMuNTgyIDgtOC0zLjU4Mi04LTgtOHptMCAxNGMtMi4yMDkgMC00LTEuNzkxLTQtNHMxLjc5MS00IDQtNCA0IDEuNzkxIDQgNC0xLjc5MSA0LTQgNHptNi01aC0xMnYtMmgxMnYyeiI+PC9wYXRoPjwvc3ZnPg==" />
   <img src="https://img.shields.io/badge/AI-Passionate-FF6F61?style=for-the-badge&labelColor=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyYy01LjUyIDAtMTAgNC40OC0xMCAxMHM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTAtNC40OC0xMC0xMC0xMHptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6bTAtMTRjLTMuMzEgMC02IDIuNjktNiA2czIuNjkgNiA2IDYgNi0yLjY5IDYtNi0yLjY5LTYtNi02em0wIDEwYy0yLjIxIDAtNC0xLjc5LTQtNHMxLjc5LTQgNC00IDQgMS43OSA0IDQtMS43OSA0LTQgNHoiPjwvcGF0aD48L3N2Zz4=" />
   <img src="https://img.shields.io/badge/Vision-Specialist-00FFFF?style=for-the-badge&labelColor=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiA5YTMgMyAwIDEwMCA2IDMgMyAwIDEwMC02em0wIDhjLTIuNzYgMC01LTIuMjQtNS01czIuMjQtNSA1LTUgNSAyLjI0IDUgNS0yLjI0IDUtNSA1em0wLTEyLjVDNyA0LjUgMi43MyA3LjYxIDEgMTJjMS43MyA0LjM5IDYgNy41IDExIDcuNXM5LjI3LTMuMTEgMTEtNy41Yy0xLjczLTQuMzktNi03LjUtMTEtNy41eiI+PC9wYXRoPjwvc3ZnPg==" />
 </p>
